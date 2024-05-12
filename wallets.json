@@ -1,0 +1,30 @@
+[
+  {
+    "address": "wallet_address_1",
+    "tokens": 100
+  },
+  {
+    "address": "wallet_address_2",
+    "tokens": 200
+  },
+  {
+    "address": "wallet_address_3",
+    "tokens": 150
+  },
+  {
+    "address": "011",
+    "tokens": 100
+  },
+  {
+    "address": "0111",
+    "tokens": 20
+  },
+  {
+    "address": "01123",
+    "tokens": 100
+  },
+  {
+    "address": "011231",
+    "tokens": 100
+  }
+]

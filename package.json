@@ -1,0 +1,23 @@
+{
+    "name": "privatekey",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@solana/spl-token": "^0.4.1",
+        "@solana/web3.js": "^1.90.0",
+        "bs58": "^5.0.0",
+        "cors": "^2.8.5",
+        "ethereumjs-tx": "^2.1.2",
+        "express": "^4.17.1",
+        "fs": "^0.0.1-security",
+        "node-fetch": "^2.7.0",
+        "node-schedule": "^2.1.1",
+        "web3": "^1.5.2"
+    }
+}
